@@ -6,9 +6,9 @@ Bits about programming that can be quickly picked up.
 1. Creational
    * Builder pattern
    * Singleton pattern
-   1. EagerSingleton
-   2. LazySingleton
-   3. ThreadSafeSingleton
+      1. EagerSingleton
+      2. LazySingleton
+      3. ThreadSafeSingleton
    * Prototype pattern
    * Factory Method pattern
    * Abstract Factory pattern
